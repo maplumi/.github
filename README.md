@@ -2,7 +2,9 @@
 
 **AI-First Non-Profit Technology Company**
 
-Maplumi Labs is a non-profit technology company focused on systems and computing research to advance novel and efficient technologies. We build tools and conduct research across artificial intelligence, computational systems, and innovative software engineering.
+Maplumi Labs is a non-profit technology company focused on systems and computing research to advance novel and efficient technologies. We explore problem sets, research solutions, and implement them with small, nimble, and agile volunteer teams. Our work is released as free tools with a view to open-sourcing codebases or allowing controlled access to contributors.
+
+Maplumi Labs relies on grants and donations to achieve its objectives.
 
 ---
 
@@ -16,12 +18,12 @@ We advance technology through:
 
 ---
 
-## 🛠️ Projects
+## 🛠️ Project Types
 
-- **[Maplumi Power BI Visual](https://github.com/maplumi/maplumi-pbi)** – Advanced visualization tool for Microsoft Power BI
-- **[GeoBoundaries Lite](https://github.com/maplumi/geoboundaries-lite)** – Lightweight data distribution system
-- **[IPC Areas Toolkit](https://github.com/maplumi/ipc-areas)** – Automated data processing pipeline
-- **[Braine Web](https://github.com/maplumi/braine-web)** – Experimental cognitive computing research
+Our work spans several technology domains:
+- **Data Visualization Tools** – Advanced visualization and mapping systems
+- **Data Infrastructure & Pipelines** – Automated data processing and distribution systems
+- **Experimental Computing Research** – Cognitive computing and novel computational paradigms
 
 ---
 
@@ -30,11 +32,14 @@ We advance technology through:
 ### **Artificial Intelligence & Machine Learning**
 Exploring applications of AI to solve complex computational problems and create intelligent systems that advance the state of the art.
 
+### **Geospatial Information Systems**
+Developing tools and infrastructure for geographic data processing, visualization, and distribution at scale.
+
 ### **Systems & Performance Engineering**
-Developing efficient computational systems with focus on performance optimization, scalability, and novel rendering techniques (SVG, Canvas, WebGL).
+Building efficient computational systems with focus on performance optimization, scalability, and novel rendering techniques (SVG, Canvas, WebGL).
 
 ### **Data Infrastructure**
-Building robust data pipelines, distribution systems, and processing frameworks that handle real-world scale with efficiency and reliability.
+Creating robust data pipelines, distribution systems, and processing frameworks that handle real-world scale with efficiency and reliability.
 
 ### **Experimental Computing**
 Investigating emerging computational paradigms including WebAssembly, cognitive architectures, and alternative data processing models.
@@ -54,9 +59,9 @@ Our research translates into production-ready tools:
 - Performance monitoring and optimization
 
 ### **3. Accessible Technology**
-Our tools are freely available:
-- Free to use for research and development
-- Source code may be open source, proprietary, or contributor-accessible
+We work with small, agile volunteer teams to explore problems, research solutions, and implement tools:
+- Initially released as free tools for research and development
+- Codebases may be open-sourced or controlled access granted to contributors
 - Community collaboration on select projects
 
 ### **4. Innovation & Efficiency**
@@ -88,6 +93,12 @@ We welcome contributions across all our projects:
 - **Documentation** – Improve guides and examples
 
 See individual repository CONTRIBUTING files for specific guidelines.
+
+---
+
+## 💰 Funding
+
+Maplumi Labs is a non-profit organization that relies on grants and donations to achieve its objectives. Your support enables us to continue our research and provide free tools to the community.
 
 ---
 

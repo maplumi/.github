@@ -2,18 +2,20 @@
 
 **AI-First Non-Profit Technology Company**
 
-We advance technology through systems and computing research, building tools and exploring novel approaches to artificial intelligence, computational efficiency, and software innovation.
+We advance technology through systems and computing research with small, agile volunteer teams. We explore problem sets, research solutions, and release free tools with a view to open-sourcing codebases or allowing controlled access to contributors.
 
-## 🛠️ Projects
+Maplumi Labs relies on grants and donations to achieve its objectives.
 
-- **[Maplumi Power BI Visual](https://github.com/maplumi/maplumi-pbi)** – Advanced visualization tool for Microsoft Power BI
-- **[GeoBoundaries Lite](https://github.com/maplumi/geoboundaries-lite)** – Lightweight data distribution system
-- **[IPC Areas Toolkit](https://github.com/maplumi/ipc-areas)** – Automated data processing pipeline
-- **[Braine Web](https://github.com/maplumi/braine-web)** – Experimental cognitive computing research
+## 🛠️ Project Types
+
+- **Data Visualization Tools** – Advanced visualization and mapping systems
+- **Data Infrastructure & Pipelines** – Automated data processing and distribution
+- **Experimental Computing Research** – Cognitive computing and novel paradigms
 
 ## 🎯 What We Do
 
 - **AI-First Research** – Exploring novel applications of artificial intelligence and machine learning
+- **Geospatial Information Systems** – Tools for geographic data processing and visualization
 - **Systems Innovation** – Building efficient, scalable computational systems
 - **Computing Research** – Investigating new paradigms in data processing and computation
 
