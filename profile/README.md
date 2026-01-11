@@ -2,7 +2,7 @@
 
 **AI-First Non-Profit Technology Company**
 
-We advance technology through systems and computing research, building open-source tools and exploring novel approaches to artificial intelligence, computational efficiency, and software innovation.
+We advance technology through systems and computing research, building tools and exploring novel approaches to artificial intelligence, computational efficiency, and software innovation.
 
 ## 🛠️ Projects
 
@@ -21,7 +21,7 @@ We advance technology through systems and computing research, building open-sour
 
 - 🤖 **AI-First** – Leveraging AI to create smarter, more efficient solutions
 - ⚡ **Performance** – Optimized systems for real-world scale
-- 🔓 **Open Source** – Transparent development, MIT licensed
+- 🆓 **Free Technology** – Tools freely available for use
 - 🔬 **Innovation** – Advancing novel and efficient technologies
 
 ## 🤝 Get Involved
@@ -30,4 +30,4 @@ We welcome contributions! Check out our repositories, report issues, or submit p
 
 ---
 
-*Advancing technology through open research and innovation.*
+*Advancing technology through research and innovation.*

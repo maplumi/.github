@@ -2,7 +2,7 @@
 
 **AI-First Non-Profit Technology Company**
 
-Maplumi Labs is a non-profit technology company focused on systems and computing research to advance novel and efficient technologies. We build open-source tools and conduct research across artificial intelligence, computational systems, and innovative software engineering.
+Maplumi Labs is a non-profit technology company focused on systems and computing research to advance novel and efficient technologies. We build tools and conduct research across artificial intelligence, computational systems, and innovative software engineering.
 
 ---
 
@@ -11,7 +11,7 @@ Maplumi Labs is a non-profit technology company focused on systems and computing
 We advance technology through:
 - **AI-First Research** – Exploring novel applications of artificial intelligence and machine learning
 - **Systems Innovation** – Building efficient, scalable computational systems
-- **Open Source** – Making our research and tools freely available to accelerate collective progress
+- **Free Technology** – Making our tools freely available to accelerate collective progress
 - **Computing Research** – Investigating new paradigms in data processing, visualization, and computation
 
 ---
@@ -53,11 +53,11 @@ Our research translates into production-ready tools:
 - Security-first architecture
 - Performance monitoring and optimization
 
-### **3. Open Source Commitment**
-Everything we build is open:
-- MIT licensed (where applicable)
-- Public repositories with transparent development
-- Community contributions welcome
+### **3. Accessible Technology**
+Our tools are freely available:
+- Free to use for research and development
+- Source code may be open source, proprietary, or contributor-accessible
+- Community collaboration on select projects
 
 ### **4. Innovation & Efficiency**
 We prioritize:
@@ -100,8 +100,8 @@ See individual repository CONTRIBUTING files for specific guidelines.
 
 ## 📄 Licensing
 
-Our projects use open-source licenses (typically MIT). Review individual repository LICENSE files for specific terms.
+Our tools are freely available with varying licensing models. Some projects are open source (MIT or other licenses), while others may be proprietary or contributor-accessible. Review individual repository LICENSE files for specific terms.
 
 ---
 
-*Advancing technology through open research and innovation.*
+*Advancing technology through research and innovation.*
