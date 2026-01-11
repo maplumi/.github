@@ -23,7 +23,7 @@ Our work spans three core areas:
 
 ## 🛠️ Our Tools & Projects
 
-### **Maplumi Power BI Visual** 
+### **Maplumi Power BI Visual**
 *Production-ready geospatial visualization for Microsoft Power BI*
 
 Transform your geographic data into compelling visual stories with our flagship Power BI custom visual. Designed for analysts, researchers, and decision-makers who need professional-quality maps without GIS expertise.
