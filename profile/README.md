@@ -1,41 +1,33 @@
-# Welcome to Maplumi Labs 🌍
+# Welcome to Maplumi Labs 🚀
 
-**Geospatial Intelligence & Data Infrastructure for Humanitarian Insights**
+**AI-First Non-Profit Technology Company**
 
-We build open-source tools and data infrastructure that make complex geographic data accessible, performant, and actionable.
+We advance technology through systems and computing research, building open-source tools and exploring novel approaches to artificial intelligence, computational efficiency, and software innovation.
 
-## 🛠️ Featured Projects
+## 🛠️ Projects
 
-### [Maplumi Power BI Visual](https://github.com/maplumi/maplumi-pbi)
-Production-ready geospatial visualization for Microsoft Power BI with choropleth regions, scaled circles, and multiple rendering engines (SVG, Canvas, WebGL).
-
-### [GeoBoundaries Lite](https://github.com/maplumi/geoboundaries-lite)
-Lightweight, CDN-ready administrative boundary data (countries, states, districts) delivered via jsDelivr with compact manifests and TopoJSON optimization.
-
-### [IPC Areas Toolkit](https://github.com/maplumi/ipc-areas)
-Automated pipeline for Integrated Food Security Phase Classification boundaries—fetch, harmonize, and distribute global IPC area data.
-
-### [Braine Web](https://github.com/maplumi/braine-web)
-Experimental cognitive substrate research exploring novel computational paradigms with WebAssembly.
+- **[Maplumi Power BI Visual](https://github.com/maplumi/maplumi-pbi)** – Advanced visualization tool for Microsoft Power BI
+- **[GeoBoundaries Lite](https://github.com/maplumi/geoboundaries-lite)** – Lightweight data distribution system
+- **[IPC Areas Toolkit](https://github.com/maplumi/ipc-areas)** – Automated data processing pipeline
+- **[Braine Web](https://github.com/maplumi/braine-web)** – Experimental cognitive computing research
 
 ## 🎯 What We Do
 
-- **Geospatial Data Visualization** – Professional mapping tools for analysts and decision-makers
-- **Humanitarian Data Infrastructure** – Critical boundary and classification data for crisis response
-- **Advanced Computational Research** – Exploring novel approaches to data processing
+- **AI-First Research** – Exploring novel applications of artificial intelligence and machine learning
+- **Systems Innovation** – Building efficient, scalable computational systems
+- **Computing Research** – Investigating new paradigms in data processing and computation
 
-## 🌟 Key Features
+## 🌟 Core Values
 
-- ✅ **Open Source** – MIT licensed, transparent development
-- ⚡ **High Performance** – Optimized for real-world datasets at scale
-- 🔄 **Interoperable** – Works with industry standards (Power BI, Mapbox, MapTiler)
-- 🌐 **CDN Ready** – Tag-versioned, jsDelivr distribution
-- 🔒 **Secure** – HTTPS-only, input validation, CORS protection
+- 🤖 **AI-First** – Leveraging AI to create smarter, more efficient solutions
+- ⚡ **Performance** – Optimized systems for real-world scale
+- 🔓 **Open Source** – Transparent development, MIT licensed
+- 🔬 **Innovation** – Advancing novel and efficient technologies
 
 ## 🤝 Get Involved
 
-We welcome contributions! Check out our repositories, report issues, or submit pull requests. See individual repo CONTRIBUTING guidelines for details.
+We welcome contributions! Check out our repositories, report issues, or submit pull requests.
 
 ---
 
-*Building better tools for a data-driven world, one boundary at a time.*
+*Advancing technology through open research and innovation.*
