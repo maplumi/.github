@@ -1,10 +1,10 @@
-# Welcome to Maplumi Labs 🚀
+# Welcome to Maplumi 🚀
 
-**AI-First Non-Profit Technology Company**
+**An AI-First Non-Profit Technology Aggregator for Social and Humanitarian Impact**
 
 We advance technology through systems and computing research with small, agile volunteer teams. We explore problem sets, research solutions, and release free tools with a view to open-sourcing codebases or allowing controlled access to contributors.
 
-Maplumi Labs relies on grants and donations to achieve its objectives.
+Maplumi relies on grants and donations to achieve its objectives.
 
 ## 🛠️ Project Types
 
