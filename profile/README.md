@@ -23,7 +23,6 @@ Maplumi relies on grants and donations to achieve its objectives.
 
 - 🤖 **AI-First** – Leveraging AI to create smarter, more efficient solutions
 - ⚡ **Performance** – Optimized systems for real-world scale
-- 🆓 **Free Technology** – Tools freely available for use
 - 🔬 **Innovation** – Advancing novel and efficient technologies
 
 ## 🤝 Get Involved
