@@ -1,6 +1,6 @@
 # Welcome to Maplumi 🚀
 
-**An AI-First Non-Profit Technology Aggregator for Social and Humanitarian Impact**
+**AI-First no-profit Technology Aggregator for Social and Humanitarian Impact**
 
 We advance technology through systems and computing research with small, agile volunteer teams. We explore problem sets, research solutions, and release free tools with a view to open-sourcing codebases or allowing controlled access to contributors.
 
