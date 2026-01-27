@@ -10,7 +10,7 @@ Maplumi relies on grants and donations to achieve its objectives.
 
 - **Data Visualization Tools** – Advanced visualization and mapping systems
 - **Data Infrastructure & Pipelines** – Automated data processing and distribution
-- **Experimental Computing Research** – Cognitive computing and novel paradigms
+- **Experimental Computing Research** – Cognitive computing (software) and novel paradigms
 
 ## 🎯 What We Do
 
