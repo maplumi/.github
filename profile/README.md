@@ -1,6 +1,6 @@
 **Maplumi is a non-profit technology lab focused on intelligent systems, autonomous tools, and scalable data infrastructure for humanitarian impact.**
 
-Dedicated to advancing practical, research-driven technology that supports social and humanitarian efforts, Maplumi works through small, focused volunteer teams that identify real-world challenges, design thoughtful solutions, and build reliable tools.
+Dedicated to advancing practical, research-driven technology that supports social and humanitarian efforts, Maplumi works through remote, small, focused volunteer teams that identify real-world challenges, design thoughtful solutions, and build reliable tools.
 
 Our approach combines applied research with disciplined engineering. Where appropriate, we release tools openly, share code, or provide structured access to collaborators. Our work is sustained through grants, partnerships, and donations.
 
