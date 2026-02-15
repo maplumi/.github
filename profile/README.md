@@ -53,7 +53,7 @@ Our approach combines applied research with disciplined engineering. Where appro
   We design solutions that are understandable, maintainable, and practical.
 
 - **Impact**  
-  We focus on technologies that create measurable and meaningful humanitarian outcomes.
+  We focus on technologies that create measurable and meaningful outcomes.
 
 - **Performance**  
   We engineer systems for efficiency, scalability, and real-world deployment.
