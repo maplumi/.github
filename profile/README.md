@@ -1,8 +1,8 @@
-**Maplumi is a non-profit technology lab focusing on intelligent systems, autonomous tools, and scalable data infrastructure.**
+**Maplumi is a technology lab focusing on intelligent systems, autonomous tools, and scalable data infrastructure.**
 
-Dedicated to advancing practical, research-driven technology that supports social and humanitarian efforts, Maplumi works through remote, small, focused teams and guided agents that identify real-world challenges, design thoughtful solutions, and build reliable tools.
+Dedicated to advancing practical, research-driven technology that supports complex social systems and mission-driven organizations, Maplumi works through remote, small, focused teams and guided agents that identify real-world challenges, design thoughtful solutions, and build reliable tools.
 
-Our approach combines applied research with disciplined engineering. Where appropriate, we release tools openly, share code, or provide structured access to collaborators. Our work is sustained through grants, partnerships, and donations.
+Our approach combines applied research with disciplined engineering. Where appropriate, we share selected tools, provide structured access to collaborators, and develop sustainable partnerships. Our work is sustained through grants, strategic partnerships, and contributions.
 
 ---
 
@@ -18,20 +18,20 @@ Our approach combines applied research with disciplined engineering. Where appro
   Robust pipelines and platforms for data ingestion, processing, validation, analysis, and distribution at scale.
 
 - **Geospatial and Data Visualization Solutions**  
-  Mapping and visualization tools that transform complex datasets into clear, actionable insight for operational contexts.
+  Mapping and visualization tools that transform complex datasets into clear, actionable insight for operational and strategic contexts.
 
 ---
 
 ## Focus Areas
 
 - **Applied Artificial Intelligence**  
-  Developing practical AI models and intelligent architectures that address real-world humanitarian and social challenges.
+  Developing practical AI models and intelligent architectures that address complex societal and organizational challenges.
 
 - **Autonomous Workflows and Automation**  
   Designing self-orchestrating systems that streamline data operations and reduce manual overhead.
 
 - **Spatial Intelligence**  
-  Integrating geographic data, analytics, and intelligent systems to support planning, coordination, and response.
+  Integrating geographic data, analytics, and intelligent systems to support planning, coordination, and informed response.
 
 - **Systems Engineering and Performance Optimization**  
   Building efficient, resilient systems capable of operating reliably in high-demand and resource-constrained environments.
@@ -65,8 +65,8 @@ Our approach combines applied research with disciplined engineering. Where appro
 
 ## Collaboration
 
-We welcome collaboration with researchers, developers, data professionals, and partners who are committed to responsible innovation and humanitarian impact.
+We welcome collaboration with researchers, developers, data professionals, and partners who are committed to responsible innovation and meaningful impact.
 
 ---
 
-*Advancing intelligent systems for meaningful and measurable social good.*
+*Advancing intelligent systems for measurable societal progress.*
