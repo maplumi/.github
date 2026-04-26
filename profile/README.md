@@ -1,4 +1,4 @@
-# Maplumi Labs
+# Maplumi
 
 > Building intelligent systems where software can reason, coordinate, and act through autonomous agents, scalable infrastructure, and spatial computing.
 
@@ -6,7 +6,7 @@
 
 ## 1. Who We Are
 
-Maplumi Labs is a technology organization focused on the design and development of intelligent systems, autonomous software agents, and scalable compute and data infrastructure.
+Maplumi is a technology organization focused on the design and development of intelligent systems, autonomous software agents, and scalable compute and data infrastructure.
 
 We operate at the intersection of artificial intelligence, distributed systems, and spatial computing, building software that transforms complex data into structured intelligence and coordinated action.
 
@@ -18,7 +18,7 @@ Our engineering approach is small, focused, and systems-driven, augmented by aut
 
 ## 2. What We Build
 
-At Maplumi Labs, we build a portfolio of interconnected system types that together form the foundation for intelligent computing environments.
+At Maplumi, we build a portfolio of interconnected system types that together form the foundation for intelligent computing environments.
 
 We design **intelligent systems** that extend beyond automation into reasoning, interpretation, and decision support. These systems enable software to work with complexity, uncertainty, and evolving context rather than static rules.
 
@@ -68,7 +68,7 @@ We embed **responsible intelligence**, ensuring accountability, governance, and 
 
 ## 5. Positioning
 
-Maplumi Labs is building a new generation of software systems where intelligence is a core property of computation itself.
+Maplumi is building a new generation of software systems where intelligence is a core property of computation itself.
 
 In these systems, software is not static. It is capable of reasoning, coordinating across components, executing complex workflows, and adapting through structured interaction.
 
